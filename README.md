@@ -1,7 +1,7 @@
 1. 安装依赖
 > npm install
 
-2. 启动服务
+2. 启动api测试服务，和测试本身无关，只是提供接口
 > npm run server
 
 3. 运行测试
