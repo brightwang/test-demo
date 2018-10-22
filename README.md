@@ -12,3 +12,7 @@ api测试
 ui测试
 
 > npm run ui-test
+
+dbug测试
+
+> npm run debug
